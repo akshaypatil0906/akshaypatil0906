@@ -13,14 +13,20 @@ const Akshay = {
             python: ["Flask", "RE", "sklearn" ,"Pandas" , "Numpy"],
             Machine Learning : ["Supervised", "Unsupervised"]
         },
-        Data Analytics: ["Power Bi", "Power Automate", "Power bi Services", "Excel", "openoffice"]
-        devOps: ["AWS"],
-        databases: ["mongo", "MySql", "sqlite", "Oracle"],
-        Repo : ["github" , "bitBucket"]
-        misc: [""Blogger" , "Wordpress" , "Arduino" , "Linux"]
+        Data Analytics: 
+            ["Power Bi", "Power Automate", "Power bi Services", "Excel", "openoffice"]
+        devOps: 
+            ["AWS"],
+        databases: 
+            ["mongo", "MySql", "sqlite", "Oracle"],
+        Repo :
+            ["github" , "bitBucket"]
+        misc:
+            [""Blogger" , "Wordpress" , "Arduino" , "Linux"]
     },
     currentFocus: "Building Machine Learning projects to predict Future",
     funFact: "There are two ways to write error-free programs; only the third one works"
+    Passion: Play Games All the Nights
 };
 ```
 <!---
