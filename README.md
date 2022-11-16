@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - akshaypatil0906@gmail.com
+'''
 const Akshay = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "PHP" , "HTML"],
@@ -21,6 +22,7 @@ const Akshay = {
     currentFocus: "Building Machine Learning projects to predict Future",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+'''
 <!---
 akshaypatil0906/akshaypatil0906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
