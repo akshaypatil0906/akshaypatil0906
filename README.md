@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - akshaypatil0906@gmail.com
-onst Akshay = {
+const Akshay = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "PHP" , "HTML"],
     askMeAbout: ["Data Science", "Tech", "ClashOfClans", "Photography"],
