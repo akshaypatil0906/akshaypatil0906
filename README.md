@@ -16,7 +16,7 @@ const Akshay = {
         Data Analytics: 
             ["Power Bi", "Power Automate", "Power bi Services", "Excel", "openoffice"]
         devOps: 
-            ["AWS"],
+            ["AWS" , "Azure" , "GCP"],
         databases: 
             ["mongo", "MySql", "sqlite", "Oracle"],
         Repo :
