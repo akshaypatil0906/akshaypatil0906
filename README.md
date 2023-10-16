@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akshaypatil0906
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working Data Science
 - akshaypatil0906@gmail.com
 ```
 const Akshay = {
