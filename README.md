@@ -3,7 +3,7 @@
 - 🌱 I’m currently working Data Science
 - akshaypatil0906@gmail.com
 ```
-const Akshay = {
+Akshay: dict = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "PHP" , "HTML"],
     askMeAbout: ["Data Science", "Tech", "ClashOfClans", "Photography"],
