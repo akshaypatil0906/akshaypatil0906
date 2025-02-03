@@ -37,9 +37,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="25"> Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SnowFlake](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 📈 GitHub Analytics
 
@@ -60,7 +60,7 @@
   <a href="mailto:akshaypatil0906@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/akshay-patil0906">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@yourblog">
